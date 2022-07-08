@@ -1,0 +1,116 @@
+@media (max-width: 500px){
+    .content {
+        left: 8%;
+        width: 396px;
+    }
+    .logo__img{
+        width: 68px;
+    }
+    .brand {
+        font-size: 19px;
+        margin-left: 4px;
+    }
+    .header{
+        height: 72px;
+    }
+    .Author{
+        width: 62px;
+        font-size: 14px;
+        margin-top: -68px;
+    }
+    .Author_group{
+        width: 87px;
+        font-size: 14px;
+    }
+    .Breadcrumb {
+        padding-top: 33px;
+        height: 124px;
+    }
+    .breadcrumb__article__first {
+        padding-left: 37%;
+        font-size: 26px;
+    }
+    .JavaPage1 {
+        font-size: 18px;
+    }
+   
+    .proceed__button {
+        margin-left: 15%;
+    }
+    .quiz-frame {
+        height: 703px;
+    }
+    
+}
+@media(max-width: 450px){
+    .naming {
+        height: 219px;
+        background-size: cover;
+        background-position: unset;
+    }
+    .naming__h3 {
+        font-size: 12px;
+        width: 225px;
+        line-height: 15px;
+    }
+    .naming__h2 {
+        font-size: 16px;
+        line-height: 15px;
+        margin-bottom: 3px;
+    }
+    .naming__color {
+    font-size: 12px;
+}
+    .naming__content {
+        width: 302px;
+    }
+    .menu__link{
+        height: 48px;
+    }
+    .logo__img{
+        width: 58px;
+    }
+    .logo{
+        font-size: 19px;
+    }
+    .Author{
+            margin-top: -61px;
+            width: 61px;
+            font-size: 14px;
+    }
+    .Author_group{
+        font-size: 13px;
+        width: 82px;
+    }
+    .header{
+        height: 64px;
+    }
+    .content{
+        left: 12%;
+         width: 295px;
+         top: 545px;
+    }
+    .Java_block{
+        max-width: 294px;
+        max-height: 232px;
+    }
+    .Java_desc{
+        font-size: 16px;
+        padding-left: 18px;
+    }
+    .SQL_block{
+        max-width: 294px;
+        max-height: 229px;
+        top: 1014px;
+    }
+    .SQL_desc{
+        font-size: 16px;
+        width: 293px;
+    }
+    .intro{
+        font-size: 13px;
+    }
+    .intro_2{
+        font-size: 12px;
+    }
+}

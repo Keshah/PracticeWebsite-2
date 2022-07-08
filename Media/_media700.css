@@ -1,0 +1,75 @@
+@media (max-width: 700px){
+    .naming__content{
+        width: 455px;
+    }
+    .naming__h2 {
+        font-size: 25px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .naming__h3{
+        font-size: 15px;
+        width: 282px;
+        line-height: 21px;
+    }
+    .naming__color{
+        font-size: 15px;
+    }
+    .content{
+        left: 17%;
+width: 396px;
+    }
+    .Java_block {
+        max-width: 393px;
+max-height: 296px;
+background-size: cover;
+    }
+    .Java_block:hover{
+        background-size: 100%;
+    }
+    .SQL_block{
+        max-width: 393px;
+max-height: 296px;
+background-size: cover;
+    }
+    .SQL_block:hover{
+        background-size: 100%;
+    }
+    .SQL_desc{
+        width: 389px;
+    }
+    .header__right{
+        padding-left: 76%;
+    }
+    .Author{
+        margin-top: -87px;
+        width: 76px;
+    }
+    .footer__index{
+        width: 99%;
+    }
+    .intro{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .intro_2{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .quiz-frame{
+        height: 970px;
+    }
+    .Breadcrumb{
+        padding-top: 53px;
+        height: 150px;
+    }
+    .breadcrumb__article__first {
+        padding-left: 37%;
+        font-size: 36px;
+    }
+    .JavaPage1{
+        font-size: 21px;
+        padding-right: 44px;
+        padding-left: 14px;
+    }
+}

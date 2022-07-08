@@ -1,0 +1,54 @@
+@media (max-width: 1280px){
+    .SQL_desc{
+        padding-left: 6%;
+        width: 540px;
+    }
+    .content{
+        display: unset;
+        padding: 0 calc(50% - 570px);
+        width: 565px;
+        left: 25%;
+        height: 1786px;
+    }
+    .footer__index{
+        top: 2600px;
+    }
+    .SQL_block{
+        margin-left: 0%;
+        padding: 0 calc(50% - 570px);
+        position: absolute;
+        left: 0%;
+        top: 923px;
+        height: 400px;
+    }
+    .naming__h2 {
+        font-size: 50px;
+        line-height: 44px;
+        margin-bottom: 12px;
+    }
+    .naming__h3{
+        font-size: 39px;
+        width: 719px;
+    }
+    .naming__color{
+        font-size: 39px;
+    }
+    
+    .Breadcrumb{
+        width: 100%;
+        padding-top: 83px;
+        height: 208px;
+    }
+    .breadcrumb__article__first{
+        padding-left: 41%;
+        font-size: 43px;
+    }
+    .proceed__button{
+        margin-left: 35%;
+    }
+    .JavaPage1{
+        padding-left: 13%;
+        font-size: 23px;
+        padding-right: 114px;
+    }
+    }

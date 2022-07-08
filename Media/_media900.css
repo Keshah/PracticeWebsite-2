@@ -1,0 +1,28 @@
+@media (max-width: 900px){
+   
+    .content{
+       left: 14%;
+       top: 704px;
+    }
+    .intro{
+        font-size: 16px;
+    }
+    .intro_2{
+        font-size: 16px;
+    }
+    .naming__h2 {
+        font-size: 37px;
+        line-height: 30px;
+        margin-bottom: 7px;
+    }
+    .naming__h3{
+        font-size: 30px;
+        width: 558px;
+    }
+    .naming__color{
+        font-size: 30px;
+    }
+    .naming__content{
+        width: 665px;
+    }
+    }
